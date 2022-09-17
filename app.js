@@ -1,5 +1,5 @@
 function NumberGuess(x) {
-  score = 20;
+  score = 19;
   HiddenNumber = Math.floor(Math.random() * 15);
 }
 let highscore=0;
