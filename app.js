@@ -1,7 +1,6 @@
-function NumberGuess() {
+function NumberGuess(x) {
   score = 20;
   HiddenNumber = Math.floor(Math.random() * 15);
-  
 }
 
 NumberGuess();
